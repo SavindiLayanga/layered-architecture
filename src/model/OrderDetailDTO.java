@@ -54,4 +54,8 @@ public class OrderDetailDTO implements Serializable {
                 ", unitPrice=" + unitPrice +
                 '}';
     }
+
+    public void getOid() {
+
+    }
 }
